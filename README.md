@@ -16,9 +16,9 @@ Capabilities
 
 RDS Engine takes AI to the next level by turning models into self-improving entities. It can:
 
-	•	Integrate reflective AI techniques to enhance decision-making.
-	•	Store and retrieve contextual memory, allowing AI to remember previous interactions and optimize future responses.
-	•	Work seamlessly with OpenAI’s GPT models, Google’s Gemini, and other leading AI systems.
-	•	Provide personalized, context-aware responses without requiring enormous context windows.
+- Integrate reflective AI techniques to enhance decision-making.
+- Store and retrieve contextual memory, allowing AI to remember previous interactions and optimize future responses.
+- Work seamlessly with OpenAI’s GPT models, Google’s Gemini, and other leading AI systems.
+- Provide personalized, context-aware responses without requiring enormous context windows.
 
 
